@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "brainf",
+        "cimg"
+    ],
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.cpp": "cpp",
+        "*.js": "javascript",
+        "ostream": "cpp"
+    }
+}
